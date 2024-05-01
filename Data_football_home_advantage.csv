@@ -1,0 +1,491 @@
+League;Season;Club;Pts Home;Pts Away;Pts Total
+Bundesliga;2022/2023;Dortmund;44;27;71
+Bundesliga;2022/2023;RB Leipzig;41;25;66
+Bundesliga;2022/2023;Union Berlin;39;23;62
+Bundesliga;2022/2023;Bayern Munich;38;33;71
+Bundesliga;2022/2023;Freiburg;34;25;59
+Bundesliga;2022/2023;Monchengladbach;33;10;43
+Bundesliga;2022/2023;E. Frankfurt;32;18;50
+Bundesliga;2022/2023;Leverkusen;27;23;50
+Bundesliga;2022/2023;Bochum;26;9;35
+Bundesliga;2022/2023;Wolfsburg;25;24;49
+Bundesliga;2022/2023;FSV Mainz;24;22;46
+Bundesliga;2022/2023;FC Koln;23;19;42
+Bundesliga;2022/2023;Hoffenheim;23;13;36
+Bundesliga;2022/2023;FC Augsburg;22;12;34
+Bundesliga;2022/2023;Stuttgart;21;12;33
+Bundesliga;2022/2023;Hertha Berlin;21;8;29
+Bundesliga;2022/2023;Schalke 04;20;11;31
+Bundesliga;2022/2023;Werder Bremen;17;19;36
+Bundesliga;2021/2022;Bayern Munich;41;36;77
+Bundesliga;2021/2022;Dortmund;39;30;69
+Bundesliga;2021/2022;RB Leipzig;35;23;58
+Bundesliga;2021/2022;FSV Mainz;35;11;46
+Bundesliga;2021/2022;Union Berlin;35;22;57
+Bundesliga;2021/2022;Leverkusen;32;32;64
+Bundesliga;2021/2022;FC Koln;31;21;52
+Bundesliga;2021/2022;Freiburg;29;26;55
+Bundesliga;2021/2022;Hoffenheim;28;18;46
+Bundesliga;2021/2022;Monchengladbach;28;17;45
+Bundesliga;2021/2022;Bochum;28;14;42
+Bundesliga;2021/2022;FC Augsburg;25;13;38
+Bundesliga;2021/2022;Wolfsburg;24;18;42
+Bundesliga;2021/2022;Stuttgart;22;11;33
+Bundesliga;2021/2022;Hertha Berlin;21;12;33
+Bundesliga;2021/2022;E. Frankfurt;19;23;42
+Bundesliga;2021/2022;Bielefeld;16;12;28
+Bundesliga;2021/2022;Greuther Furth;14;4;18
+Bundesliga;2020/2021;Bayern Munich;43;35;78
+Bundesliga;2020/2021;E. Frankfurt;37;23;60
+Bundesliga;2020/2021;RB Leipzig;37;28;65
+Bundesliga;2020/2021;Dortmund;35;29;64
+Bundesliga;2020/2021;Wolfsburg;34;27;61
+Bundesliga;2020/2021;Union Berlin;32;18;50
+Bundesliga;2020/2021;Leverkusen;29;23;52
+Bundesliga;2020/2021;Monchengladbach;28;21;49
+Bundesliga;2020/2021;Freiburg;27;18;45
+Bundesliga;2020/2021;Hoffenheim;27;16;43
+Bundesliga;2020/2021;FC Augsburg;22;14;36
+Bundesliga;2020/2021;Stuttgart;21;24;45
+Bundesliga;2020/2021;Hertha Berlin;20;15;35
+Bundesliga;2020/2021;Bielefeld;20;15;35
+Bundesliga;2020/2021;FSV Mainz;16;23;39
+Bundesliga;2020/2021;FC Koln;14;19;33
+Bundesliga;2020/2021;Werder Bremen;14;17;31
+Bundesliga;2020/2021;Schalke 04;12;4;16
+Bundesliga;2019/2020;Bayern Munich;41;41;82
+Bundesliga;2019/2020;Monchengladbach;38;27;65
+Bundesliga;2019/2020;Dortmund;36;33;69
+Bundesliga;2019/2020;Leverkusen;31;32;63
+Bundesliga;2019/2020;RB Leipzig;29;37;66
+Bundesliga;2019/2020;Freiburg;29;19;48
+Bundesliga;2019/2020;E. Frankfurt;28;17;45
+Bundesliga;2019/2020;Union Berlin;27;14;41
+Bundesliga;2019/2020;FC Koln;22;14;36
+Bundesliga;2019/2020;Schalke 04;22;17;39
+Bundesliga;2019/2020;Hoffenheim;22;30;52
+Bundesliga;2019/2020;Hertha Berlin;21;20;41
+Bundesliga;2019/2020;FC Augsburg;20;16;36
+Bundesliga;2019/2020;Wolfsburg;19;30;49
+Bundesliga;2019/2020;Dusseldorf;18;12;30
+Bundesliga;2019/2020;FSV Mainz;17;20;37
+Bundesliga;2019/2020;Werder Bremen;9;22;31
+Bundesliga;2019/2020;Paderborn;8;12;20
+Bundesliga;2018/2019;Dortmund;44;32;76
+Bundesliga;2018/2019;Bayern Munich;42;36;78
+Bundesliga;2018/2019;RB Leipzig;36;30;66
+Bundesliga;2018/2019;Werder Bremen;30;23;53
+Bundesliga;2018/2019;Monchengladbach;30;25;55
+Bundesliga;2018/2019;Wolfsburg;29;26;55
+Bundesliga;2018/2019;FSV Mainz;29;14;43
+Bundesliga;2018/2019;Leverkusen;29;29;58
+Bundesliga;2018/2019;E. Frankfurt;28;26;54
+Bundesliga;2018/2019;Dusseldorf;27;17;44
+Bundesliga;2018/2019;Hoffenheim;26;25;51
+Bundesliga;2018/2019;Freiburg;25;11;36
+Bundesliga;2018/2019;Hertha Berlin;24;19;43
+Bundesliga;2018/2019;Stuttgart;22;6;28
+Bundesliga;2018/2019;FC Augsburg;19;13;32
+Bundesliga;2018/2019;FC Nurnberg;16;3;19
+Bundesliga;2018/2019;Hannover 96;16;5;21
+Bundesliga;2018/2019;Schalke 04;15;18;33
+Premier League;2022/2023;Manchester City;52;37;89
+Premier League;2022/2023;Manchester Utd;48;27;75
+Premier League;2022/2023;Arsenal;45;39;84
+Premier League;2022/2023;Liverpool;44;23;67
+Premier League;2022/2023;Newcastle Utd;39;32;71
+Premier League;2022/2023;Aston Villa;38;23;61
+Premier League;2022/2023;Brentford;37;22;59
+Premier League;2022/2023;Tottenham;37;23;60
+Premier League;2022/2023;Brighton;34;28;62
+Premier League;2022/2023;Nottm Forest;30;8;38
+Premier League;2022/2023;Wolverhampton;30;11;41
+Premier League;2022/2023;Fulham;29;23;52
+Premier League;2022/2023;West Ham Utd;28;12;40
+Premier League;2022/2023;Crystal Palace;28;17;45
+Premier League;2022/2023;Chelsea;25;19;44
+Premier League;2022/2023;Bournemouth;22;17;39
+Premier League;2022/2023;Leeds Utd;22;9;31
+Premier League;2022/2023;Everton;21;15;36
+Premier League;2022/2023;Leicester City;19;15;34
+Premier League;2022/2023;Southampton;11;14;25
+Premier League;2021/2022;Liverpool;49;43;92
+Premier League;2021/2022;Manchester City;47;46;93
+Premier League;2021/2022;Arsenal;41;28;69
+Premier League;2021/2022;Tottenham;40;31;71
+Premier League;2021/2022;Manchester Utd;35;23;58
+Premier League;2021/2022;Chelsea;34;40;74
+Premier League;2021/2022;Leicester City;34;18;52
+Premier League;2021/2022;West Ham Utd;32;24;56
+Premier League;2021/2022;Newcastle Utd;30;19;49
+Premier League;2021/2022;Crystal Palace;29;19;48
+Premier League;2021/2022;Everton;29;10;39
+Premier League;2021/2022;Southampton;25;15;40
+Premier League;2021/2022;Brentford;24;22;46
+Premier League;2021/2022;Wolverhampton;24;27;51
+Premier League;2021/2022;Aston Villa;23;22;45
+Premier League;2021/2022;Brighton;22;29;51
+Premier League;2021/2022;Burnley;21;14;35
+Premier League;2021/2022;Leeds Utd;18;20;38
+Premier League;2021/2022;Norwich City;12;10;22
+Premier League;2021/2022;Watford;8;15;23
+Premier League;2020/2021;Manchester City;41;45;86
+Premier League;2020/2021;West Ham Utd;34;31;65
+Premier League;2020/2021;Tottenham;33;29;62
+Premier League;2020/2021;Chelsea;33;34;67
+Premier League;2020/2021;Liverpool;33;36;69
+Premier League;2020/2021;Manchester Utd;31;43;74
+Premier League;2020/2021;Leeds Utd;29;30;59
+Premier League;2020/2021;Leicester City;28;38;66
+Premier League;2020/2021;Arsenal;28;33;61
+Premier League;2020/2021;Southampton;27;16;43
+Premier League;2020/2021;Aston Villa;25;30;55
+Premier League;2020/2021;Wolverhampton;25;20;45
+Premier League;2020/2021;Newcastle Utd;23;22;45
+Premier League;2020/2021;Crystal Palace;23;21;44
+Premier League;2020/2021;Everton;22;37;59
+Premier League;2020/2021;Brighton;21;20;41
+Premier League;2020/2021;Burnley;18;21;39
+Premier League;2020/2021;Sheffield Utd;16;7;23
+Premier League;2020/2021;West Brom;15;11;26
+Premier League;2020/2021;Fulham;10;18;28
+Premier League;2019/2020;Liverpool;55;44;99
+Premier League;2019/2020;Manchester City;47;34;81
+Premier League;2019/2020;Tottenham;39;20;59
+Premier League;2019/2020;Manchester Utd;37;29;66
+Premier League;2019/2020;Leicester City;37;25;62
+Premier League;2019/2020;Chelsea;36;30;66
+Premier League;2019/2020;Arsenal;36;20;56
+Premier League;2019/2020;Sheffield Utd;33;21;54
+Premier League;2019/2020;Wolverhampton;31;28;59
+Premier League;2019/2020;Everton;31;18;49
+Premier League;2019/2020;Burnley;28;26;54
+Premier League;2019/2020;Newcastle Utd;26;18;44
+Premier League;2019/2020;Watford;24;10;34
+Premier League;2019/2020;Aston Villa;24;11;35
+Premier League;2019/2020;Crystal Palace;23;20;43
+Premier League;2019/2020;West Ham Utd;22;17;39
+Premier League;2019/2020;Brighton;22;19;41
+Premier League;2019/2020;Bournemouth;21;13;34
+Premier League;2019/2020;Southampton;21;31;52
+Premier League;2019/2020;Norwich City;15;6;21
+Premier League;2018/2019;Manchester City;54;44;98
+Premier League;2018/2019;Liverpool;53;44;97
+Premier League;2018/2019;Arsenal;45;25;70
+Premier League;2018/2019;Chelsea;42;30;72
+Premier League;2018/2019;Tottenham;38;33;71
+Premier League;2018/2019;Manchester Utd;36;30;66
+Premier League;2018/2019;Everton;34;20;54
+Premier League;2018/2019;Wolverhampton;34;23;57
+Premier League;2018/2019;West Ham Utd;31;21;52
+Premier League;2018/2019;Bournemouth;29;16;45
+Premier League;2018/2019;Leicester City;27;25;52
+Premier League;2018/2019;Watford;27;23;50
+Premier League;2018/2019;Newcastle Utd;25;20;45
+Premier League;2018/2019;Southampton;23;16;39
+Premier League;2018/2019;Burnley;23;17;40
+Premier League;2018/2019;Brighton;23;13;36
+Premier League;2018/2019;Fulham;21;5;26
+Premier League;2018/2019;Crystal Palace;20;29;49
+Premier League;2018/2019;Cardiff City;20;14;34
+Premier League;2018/2019;Huddersfield;9;7;16
+La Liga;2022/2023;FC Barcelona;48;40;88
+La Liga;2022/2023;Real Madrid;44;34;78
+La Liga;2022/2023;Atletico Madrid;42;35;77
+La Liga;2022/2023;Villarreal;39;25;64
+La Liga;2022/2023;Real Sociedad;38;33;71
+La Liga;2022/2023;Mallorca;35;15;50
+La Liga;2022/2023;Osasuna;34;19;53
+La Liga;2022/2023;Girona;33;16;49
+La Liga;2022/2023;Almeria;33;8;41
+La Liga;2022/2023;Real Betis;32;28;60
+La Liga;2022/2023;Rayo Vallecano;32;17;49
+La Liga;2022/2023;Valencia;29;13;42
+La Liga;2022/2023;Valladolid;28;12;40
+La Liga;2022/2023;Athletic Bilbao;27;24;51
+La Liga;2022/2023;Celta Vigo;27;16;43
+La Liga;2022/2023;Getafe;27;15;42
+La Liga;2022/2023;Cadiz;27;15;42
+La Liga;2022/2023;Sevilla FC;26;23;49
+La Liga;2022/2023;Espanyol;19;18;37
+La Liga;2022/2023;Elche;15;10;25
+La Liga;2021/2022;Real Madrid;44;42;86
+La Liga;2021/2022;Sevilla FC;42;28;70
+La Liga;2021/2022;Atletico Madrid;41;30;71
+La Liga;2021/2022;FC Barcelona;38;35;73
+La Liga;2021/2022;Villarreal;36;23;59
+La Liga;2021/2022;Real Sociedad;35;27;62
+La Liga;2021/2022;Athletic Bilbao;34;21;55
+La Liga;2021/2022;Espanyol;33;9;42
+La Liga;2021/2022;Real Betis;32;33;65
+La Liga;2021/2022;Rayo Vallecano;29;13;42
+La Liga;2021/2022;Getafe;28;11;39
+La Liga;2021/2022;Elche;27;15;42
+La Liga;2021/2022;Mallorca;27;12;39
+La Liga;2021/2022;Valencia;26;22;48
+La Liga;2021/2022;Celta Vigo;25;21;46
+La Liga;2021/2022;Alaves;25;6;31
+La Liga;2021/2022;Levante;22;13;35
+La Liga;2021/2022;Granada;22;16;38
+La Liga;2021/2022;Osasuna;22;25;47
+La Liga;2021/2022;Cadiz;18;21;39
+La Liga;2020/2021;Atletico Madrid;48;38;86
+La Liga;2020/2021;Sevilla FC;43;34;77
+La Liga;2020/2021;Real Madrid;42;42;84
+La Liga;2020/2021;FC Barcelona;38;41;79
+La Liga;2020/2021;Real Betis;35;26;61
+La Liga;2020/2021;Real Sociedad;33;29;62
+La Liga;2020/2021;Valencia;31;12;43
+La Liga;2020/2021;Granada;31;15;46
+La Liga;2020/2021;Athletic Bilbao;30;16;46
+La Liga;2020/2021;Villarreal;30;28;58
+La Liga;2020/2021;Celta Vigo;30;23;53
+La Liga;2020/2021;Osasuna;26;18;44
+La Liga;2020/2021;Getafe;24;14;38
+La Liga;2020/2021;Levante;24;17;41
+La Liga;2020/2021;Alaves;24;14;38
+La Liga;2020/2021;Elche;23;13;36
+La Liga;2020/2021;Huesca;22;12;34
+La Liga;2020/2021;Cadiz;20;24;44
+La Liga;2020/2021;Valladolid;16;15;31
+La Liga;2020/2021;Eibar;13;17;30
+La Liga;2019/2020;FC Barcelona;50;32;82
+La Liga;2019/2020;Real Madrid;49;38;87
+La Liga;2019/2020;Atletico Madrid;42;28;70
+La Liga;2019/2020;Valencia;40;13;53
+La Liga;2019/2020;Sevilla FC;37;33;70
+La Liga;2019/2020;Granada;33;23;56
+La Liga;2019/2020;Villarreal;32;28;60
+La Liga;2019/2020;Levante;32;17;49
+La Liga;2019/2020;Real Sociedad;31;25;56
+La Liga;2019/2020;Real Betis;31;10;41
+La Liga;2019/2020;Athletic Bilbao;31;20;51
+La Liga;2019/2020;Getafe;30;24;54
+La Liga;2019/2020;Osasuna;28;24;52
+La Liga;2019/2020;Mallorca;27;6;33
+La Liga;2019/2020;Alaves;27;12;39
+La Liga;2019/2020;Eibar;27;15;42
+La Liga;2019/2020;Valladolid;25;17;42
+La Liga;2019/2020;Celta Vigo;23;14;37
+La Liga;2019/2020;Leganes;20;16;36
+La Liga;2019/2020;Espanyol;12;13;25
+La Liga;2018/2019;FC Barcelona;48;39;87
+La Liga;2018/2019;Atletico Madrid;48;28;76
+La Liga;2018/2019;Real Madrid;40;28;68
+La Liga;2018/2019;Sevilla FC;39;20;59
+La Liga;2018/2019;Getafe;36;23;59
+La Liga;2018/2019;Espanyol;36;17;53
+La Liga;2018/2019;Athletic Bilbao;35;18;53
+La Liga;2018/2019;Eibar;33;14;47
+La Liga;2018/2019;Valencia;31;30;61
+La Liga;2018/2019;Celta Vigo;29;12;41
+La Liga;2018/2019;Leganes;29;16;45
+La Liga;2018/2019;Alaves;29;21;50
+La Liga;2018/2019;Real Betis;29;21;50
+La Liga;2018/2019;Real Sociedad;27;23;50
+La Liga;2018/2019;Levante;25;19;44
+La Liga;2018/2019;Villarreal;23;21;44
+La Liga;2018/2019;Huesca;21;12;33
+La Liga;2018/2019;Rayo Vallecano;21;11;32
+La Liga;2018/2019;Valladolid;20;21;41
+La Liga;2018/2019;Girona;15;22;37
+La Ligue 1;2022/2023;Lens;52;32;84
+La Ligue 1;2022/2023;Rennes;45;23;68
+La Ligue 1;2022/2023;Lille;43;24;67
+La Ligue 1;2022/2023;Paris SG;41;44;85
+La Ligue 1;2022/2023;Lyon;35;27;62
+La Ligue 1;2022/2023;Marseille;34;39;73
+La Ligue 1;2022/2023;Lorient;31;24;55
+La Ligue 1;2022/2023;Reims;30;21;51
+La Ligue 1;2022/2023;Monaco;30;35;65
+La Ligue 1;2022/2023;Clermont;30;29;59
+La Ligue 1;2022/2023;Nice;28;30;58
+La Ligue 1;2022/2023;Brest;26;18;44
+La Ligue 1;2022/2023;Montpellier;24;26;50
+La Ligue 1;2022/2023;Toulouse;24;24;48
+La Ligue 1;2022/2023;Nantes;23;13;36
+La Ligue 1;2022/2023;Strasbourg;22;18;40
+La Ligue 1;2022/2023;Auxerre;22;13;35
+La Ligue 1;2022/2023;AC Ajaccio;15;11;26
+La Ligue 1;2022/2023;Troyes;14;10;24
+La Ligue 1;2022/2023;Angers;12;6;18
+La Ligue 1;2021/2022;Paris SG;51;35;86
+La Ligue 1;2021/2022;Rennes;43;23;66
+La Ligue 1;2021/2022;Monaco;40;29;69
+La Ligue 1;2021/2022;Strasbourg;38;25;63
+La Ligue 1;2021/2022;Lyon;38;24;62
+La Ligue 1;2021/2022;Nantes;37;18;55
+La Ligue 1;2021/2022;Lens;34;28;62
+La Ligue 1;2021/2022;Nice;34;33;67
+La Ligue 1;2021/2022;Marseille;32;39;71
+La Ligue 1;2021/2022;Lille;29;26;55
+La Ligue 1;2021/2022;Montpellier;26;17;43
+La Ligue 1;2021/2022;Angers;26;15;41
+La Ligue 1;2021/2022;Brest;25;23;48
+La Ligue 1;2021/2022;Lorient;24;12;36
+La Ligue 1;2021/2022;Troyes;22;16;38
+La Ligue 1;2021/2022;Reims;21;25;46
+La Ligue 1;2021/2022;Clermont;18;18;36
+La Ligue 1;2021/2022;Saint-Etienne;18;14;32
+La Ligue 1;2021/2022;Bordeaux;16;15;31
+La Ligue 1;2021/2022;Metz;16;15;31
+La Ligue 1;2020/2021;Monaco;41;37;78
+La Ligue 1;2020/2021;Paris SG;40;42;82
+La Ligue 1;2020/2021;Lille;37;46;83
+La Ligue 1;2020/2021;Lyon;36;40;76
+La Ligue 1;2020/2021;Marseille;35;25;60
+La Ligue 1;2020/2021;Lorient;32;10;42
+La Ligue 1;2020/2021;Rennes;31;27;58
+La Ligue 1;2020/2021;Lens;28;29;57
+La Ligue 1;2020/2021;Brest;28;13;41
+La Ligue 1;2020/2021;Montpellier;25;29;54
+La Ligue 1;2020/2021;Bordeaux;25;20;45
+La Ligue 1;2020/2021;Nice;24;28;52
+La Ligue 1;2020/2021;Angers;21;23;44
+La Ligue 1;2020/2021;Saint-Etienne;21;25;46
+La Ligue 1;2020/2021;Reims;20;22;42
+La Ligue 1;2020/2021;Metz;20;27;47
+La Ligue 1;2020/2021;Nantes;17;23;40
+La Ligue 1;2020/2021;Strasbourg;17;25;42
+La Ligue 1;2020/2021;Nimes;14;21;35
+La Ligue 1;2020/2021;Dijon;9;12;21
+La Ligue 1;2019/2020;Paris SG;37;31;68
+La Ligue 1;2019/2020;Lille;35;14;49
+La Ligue 1;2019/2020;Montpellier;32;8;40
+La Ligue 1;2019/2020;Rennes;29;21;50
+La Ligue 1;2019/2020;Nice;28;13;41
+La Ligue 1;2019/2020;Marseille;28;28;56
+La Ligue 1;2019/2020;Angers;27;12;39
+La Ligue 1;2019/2020;Monaco;26;14;40
+La Ligue 1;2019/2020;Brest;24;10;34
+La Ligue 1;2019/2020;Strasbourg;24;14;38
+La Ligue 1;2019/2020;Dijon;24;6;30
+La Ligue 1;2019/2020;Reims;22;19;41
+La Ligue 1;2019/2020;Nimes;20;7;27
+La Ligue 1;2019/2020;Nantes;20;17;37
+La Ligue 1;2019/2020;Lyon;19;21;40
+La Ligue 1;2019/2020;Metz;19;15;34
+La Ligue 1;2019/2020;Saint-Etienne;18;12;30
+La Ligue 1;2019/2020;Bordeaux;17;20;37
+La Ligue 1;2019/2020;Amiens;14;9;23
+La Ligue 1;2019/2020;Toulouse;9;4;13
+La Ligue 1;2018/2019;Paris SG;53;38;91
+La Ligue 1;2018/2019;Lille;43;32;75
+La Ligue 1;2018/2019;Saint-Etienne;41;25;66
+La Ligue 1;2018/2019;Lyon;40;32;72
+La Ligue 1;2018/2019;Marseille;37;24;61
+La Ligue 1;2018/2019;Nice;34;22;56
+La Ligue 1;2018/2019;Montpellier;32;27;59
+La Ligue 1;2018/2019;Nimes;32;21;53
+La Ligue 1;2018/2019;Nantes;31;17;48
+La Ligue 1;2018/2019;Rennes;31;21;52
+La Ligue 1;2018/2019;Reims;31;24;55
+La Ligue 1;2018/2019;Bordeaux;27;14;41
+La Ligue 1;2018/2019;Strasbourg;26;23;49
+La Ligue 1;2018/2019;Amiens;26;12;38
+La Ligue 1;2018/2019;Angers;24;22;46
+La Ligue 1;2018/2019;Dijon;22;12;34
+La Ligue 1;2018/2019;Toulouse;21;17;38
+La Ligue 1;2018/2019;Monaco;18;18;36
+La Ligue 1;2018/2019;Caen;17;16;33
+La Ligue 1;2018/2019;Guingamp;16;11;27
+Serie A;2022/2023;Napoli;45;45;90
+Serie A;2022/2023;AC Milan;43;27;70
+Serie A;2022/2023;Juventus;42;30;72
+Serie A;2022/2023;Inter Milan;42;30;72
+Serie A;2022/2023;Lazio;37;37;74
+Serie A;2022/2023;AS Roma;36;27;63
+Serie A;2022/2023;Atalanta;33;31;64
+Serie A;2022/2023;Fiorentina;33;23;56
+Serie A;2022/2023;Bologna;30;24;54
+Serie A;2022/2023;Sassuolo;28;17;45
+Serie A;2022/2023;Empoli;28;15;43
+Serie A;2022/2023;Udinese;27;19;46
+Serie A;2022/2023;Salernitana;27;15;42
+Serie A;2022/2023;Monza;26;26;52
+Serie A;2022/2023;Torino;22;31;53
+Serie A;2022/2023;Hellas Verona;21;10;31
+Serie A;2022/2023;Spezia;20;11;31
+Serie A;2022/2023;Lecce;17;19;36
+Serie A;2022/2023;Cremonese;16;11;27
+Serie A;2022/2023;Sampdoria;10;9;19
+Serie A;2021/2022;Inter Milan;45;39;84
+Serie A;2021/2022;Fiorentina;41;21;62
+Serie A;2021/2022;AC Milan;40;46;86
+Serie A;2021/2022;Napoli;36;43;79
+Serie A;2021/2022;Lazio;36;28;64
+Serie A;2021/2022;AS Roma;36;27;63
+Serie A;2021/2022;Juventus;35;35;70
+Serie A;2021/2022;Hellas Verona;30;23;53
+Serie A;2021/2022;Torino;29;21;50
+Serie A;2021/2022;Bologna;28;18;46
+Serie A;2021/2022;Udinese;25;22;47
+Serie A;2021/2022;Sassuolo;24;26;50
+Serie A;2021/2022;Sampdoria;21;15;36
+Serie A;2021/2022;Atalanta;20;39;59
+Serie A;2021/2022;Spezia;18;18;36
+Serie A;2021/2022;Genoa;17;11;28
+Serie A;2021/2022;Empoli;17;24;41
+Serie A;2021/2022;Cagliari;15;15;30
+Serie A;2021/2022;Salernitana;15;16;31
+Serie A;2021/2022;Venezia;14;13;27
+Serie A;2020/2021;Inter Milan;52;39;91
+Serie A;2020/2021;Juventus;44;34;78
+Serie A;2020/2021;AS Roma;43;19;62
+Serie A;2020/2021;Lazio;42;26;68
+Serie A;2020/2021;Napoli;40;37;77
+Serie A;2020/2021;Atalanta;39;39;78
+Serie A;2020/2021;AC Milan;30;49;79
+Serie A;2020/2021;Sampdoria;30;22;52
+Serie A;2020/2021;Sassuolo;29;33;62
+Serie A;2020/2021;Bologna;26;15;41
+Serie A;2020/2021;Fiorentina;24;16;40
+Serie A;2020/2021;Hellas Verona;24;21;45
+Serie A;2020/2021;Genoa;22;20;42
+Serie A;2020/2021;Spezia;22;17;39
+Serie A;2020/2021;Udinese;19;21;40
+Serie A;2020/2021;Cagliari;19;18;37
+Serie A;2020/2021;Torino;18;19;37
+Serie A;2020/2021;Crotone;17;6;23
+Serie A;2020/2021;Benevento;13;20;33
+Serie A;2020/2021;Parma;11;9;20
+Serie A;2019/2020;Juventus;50;33;83
+Serie A;2019/2020;Lazio;45;33;78
+Serie A;2019/2020;Inter Milan;39;43;82
+Serie A;2019/2020;Atalanta;38;40;78
+Serie A;2019/2020;AS Roma;34;36;70
+Serie A;2019/2020;AC Milan;33;33;66
+Serie A;2019/2020;Napoli;33;29;62
+Serie A;2019/2020;Hellas Verona;32;17;49
+Serie A;2019/2020;Sassuolo;27;24;51
+Serie A;2019/2020;Cagliari;25;20;45
+Serie A;2019/2020;Torino;25;15;40
+Serie A;2019/2020;Udinese;24;21;45
+Serie A;2019/2020;Parma;23;26;49
+Serie A;2019/2020;Fiorentina;23;26;49
+Serie A;2019/2020;Bologna;23;24;47
+Serie A;2019/2020;Sampdoria;22;20;42
+Serie A;2019/2020;Genoa;22;17;39
+Serie A;2019/2020;Lecce;17;18;35
+Serie A;2019/2020;Brescia;14;11;25
+Serie A;2019/2020;SPAL;10;10;20
+Serie A;2018/2019;Juventus;49;41;90
+Serie A;2018/2019;Napoli;43;36;79
+Serie A;2018/2019;AS Roma;41;25;66
+Serie A;2018/2019;AC Milan;40;28;68
+Serie A;2018/2019;Inter Milan;38;31;69
+Serie A;2018/2019;Torino;38;25;63
+Serie A;2018/2019;Atalanta;35;34;69
+Serie A;2018/2019;Sampdoria;32;21;53
+Serie A;2018/2019;Lazio;32;27;59
+Serie A;2018/2019;Bologna;31;13;44
+Serie A;2018/2019;Empoli;30;8;38
+Serie A;2018/2019;Cagliari;30;11;41
+Serie A;2018/2019;Udinese;29;14;43
+Serie A;2018/2019;Genoa;26;12;38
+Serie A;2018/2019;Sassuolo;25;18;43
+Serie A;2018/2019;Fiorentina;24;17;41
+Serie A;2018/2019;SPAL;22;20;42
+Serie A;2018/2019;Parma;22;19;41
+Serie A;2018/2019;Chievo;10;9;19
+Serie A;2018/2019;Frosinone;9;16;25
